@@ -1,0 +1,7 @@
+E:\Projects\SQLServerSecurityAudit\SQLServerSecurityAudit\SQLServerSecurityAudit\bin\Debug\SQLServerSecurityAudit.exe.config
+E:\Projects\SQLServerSecurityAudit\SQLServerSecurityAudit\bin\Debug\SQLServerSecurityAudit.exe.config
+E:\Projects\SQLServerSecurityAudit\SQLServerSecurityAudit\bin\Debug\SQLServerSecurityAudit.exe
+E:\Projects\SQLServerSecurityAudit\SQLServerSecurityAudit\bin\Debug\SQLServerSecurityAudit.pdb
+E:\Projects\SQLServerSecurityAudit\SQLServerSecurityAudit\obj\Debug\SQLServerSecurityAudit.csprojResolveAssemblyReference.cache
+E:\Projects\SQLServerSecurityAudit\SQLServerSecurityAudit\obj\Debug\SQLServerSecurityAudit.exe
+E:\Projects\SQLServerSecurityAudit\SQLServerSecurityAudit\obj\Debug\SQLServerSecurityAudit.pdb
